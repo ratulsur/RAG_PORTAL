@@ -187,7 +187,7 @@
         
 #         rag = ConversationalRAG(session_id=session_id, retriever=retriever)
         
-#         question = "what is President Zelenskyy said in their speech in parliament?"
+#         question = "what did President Zelenskyy say in his speech in parliament?"
         
 #         answer=rag.invoke(question)
         
