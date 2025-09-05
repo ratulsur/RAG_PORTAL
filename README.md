@@ -1,6 +1,6 @@
-# Project Setup Guide
+# Project Setup 
 
-## Create Project Folder and Environment Setup
+##  Project Folder and Environment Setup
 
 ```bash
 # Create a new project folder
